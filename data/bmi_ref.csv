@@ -1,0 +1,5 @@
+bmi_cat,bmi_min,bmi_max,severity_rank,risk_note
+underweight,-inf,18.5,0,low risk
+normal,18.5,25.0,1,baseline risk
+overweight,25.0,30.0,2,elevated cardiometabolic risk
+obesity,30.0,inf,3,high cardiometabolic risk
